@@ -1,0 +1,23 @@
+# go
+/bin/
+/dist/
+/build/
+/coverage.out
+*.exe
+*.test
+
+# editor/ide
+.vscode/
+.idea/
+*.iml
+
+# os
+.DS_Store
+Thumbs.db
+
+# app data
+data/
+*.db
+
+# env
+.env
