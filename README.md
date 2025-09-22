@@ -304,8 +304,3 @@ Coverage files are uploaded as workflow artifacts; Codecov upload can be enabled
   * remove `go.sum`
   * `go mod tidy`
 
----
-
-## 11. License
-
-MIT. See `LICENSE` for full text.
